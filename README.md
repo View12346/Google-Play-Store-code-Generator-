@@ -1,6 +1,5 @@
 # Google-Play-Store-code-Generator-
-#By Vighnesh patil
-#Buy me a coffee https://www.buymeacoffee.com/vighneshpatil
+
 import random
 import string
 from google_play_scraper import app, exceptions
